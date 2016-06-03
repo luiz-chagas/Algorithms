@@ -40,7 +40,7 @@ void split(int *array, int begin, int end, int *workArray){
 }
 
 void mergesort(int *array, int size){
-    int workArray[size];
+    int * workArray = malloc(sizeof(int) * size);
     split(array, 0, size, workArray);
 }
 
