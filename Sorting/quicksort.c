@@ -1,6 +1,7 @@
 /*
-Basic quicksort implementation, use as needed
 Author: Luiz
+Basic quicksort implementation, use as needed
+Average time complexity: O(nlog(n))
 */
 
 #include <stdio.h>

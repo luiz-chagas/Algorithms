@@ -1,3 +1,8 @@
+/*
+Author: Luiz
+Hello World using as much threads as supported by your processor
+*/
+
 #include <stdio.h>
 
 void main(){

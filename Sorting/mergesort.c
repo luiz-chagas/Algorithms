@@ -1,7 +1,7 @@
 /*
 Author: Luiz
 Basic merge sort implementation, use it as needed
-Average time complexity: O(n log n)
+Average time complexity: O(nlog(n))
 */
 
 #include <stdio.h>
