@@ -1,6 +1,6 @@
 /*
 Author: Luiz
-3 Different approaches on matrices multiplication.
+3 Different approaches on two NxN matrices multiplication.
 a) The naive way
 b) With cache optimization by transposing the second matrix
 c) With multiple threads and transposing the second matrix
